@@ -1,6 +1,8 @@
 
 # Ejercicios de Estructura de Control Secuencial
 
+**Instrucciones de Entrega**: La entrega se realizará a través de GitHub. Los estudiantes deberán realizar un fork de este repositorio, realizar sus ejercicios y finalmente realizar un pull request con sus soluciones. Asegúrate de que el repositorio esté disponible en la siguiente ruta: https://github.com/<su_usuario_github>/ejercicios_php.
+
 ## 1. Saludo Personalizado
 **Enunciado**: Crea un formulario en PHP que solicite al usuario su nombre y apellido por separado. Al enviar el formulario, el programa debe mostrar un mensaje que diga "¡Hola [nombre] [apellido]!".
 
