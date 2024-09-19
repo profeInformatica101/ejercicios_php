@@ -24,10 +24,12 @@
 **Enunciado**: Crea un formulario en PHP que solicite al usuario tres números. Al enviar el formulario, el programa debe indicar cuál de los tres números es el mayor.  
    - Documentación recomendada:
      - [Condicionales if...else](https://www.php.net/manual/es/control-structures.if.php)
+     - [Condicionales switch](https://www.php.net/manual/es/control-structures.switch.php)
 
 ## 4. Día de la Semana
 **Enunciado**: Diseña un formulario que pida al usuario un número del 1 al 7. Al enviar el formulario, el programa debe retornar el día de la semana correspondiente (ejemplo: 1 = Lunes, 2 = Martes, etc.). Si el número está fuera de ese rango, muestra un mensaje de error.  
    - Documentación recomendada:
+     - [Condicionales if...else](https://www.php.net/manual/es/control-structures.if.php)
      - [Condicionales switch](https://www.php.net/manual/es/control-structures.switch.php)
 
 ## 5. Categorización de Edades
@@ -38,6 +40,7 @@
    - "Anciano" si es mayor de 60.  
    - Documentación recomendada:
      - [Condicionales if...else](https://www.php.net/manual/es/control-structures.if.php)
+     - [Condicionales switch](https://www.php.net/manual/es/control-structures.switch.php)
 
 # Ejercicios de Estructura de Control de Repetición
 
@@ -45,11 +48,15 @@
 **Enunciado**: Diseña un formulario que pida al usuario un número N. Al enviar el formulario, el programa debe calcular y mostrar la suma de todos los números desde 1 hasta N.  
    - Documentación recomendada:
      - [Bucles for](https://www.php.net/manual/es/control-structures.for.php)
+     - [Bucles while](https://www.php.net/manual/es/control-structures.while.php)
+     - [Bucles do...while](https://www.php.net/manual/es/control-structures.do.while.php)
 
 ## 7. Tabla de Multiplicar
 **Enunciado**: Crea un formulario que solicite al usuario un número entre 1 y 10. Al enviar el formulario, el programa debe mostrar la tabla de multiplicar de ese número.  
    - Documentación recomendada:
      - [Bucles for](https://www.php.net/manual/es/control-structures.for.php)
+     - [Bucles while](https://www.php.net/manual/es/control-structures.while.php)
+     - [Bucles do...while](https://www.php.net/manual/es/control-structures.do.while.php)
 
 # Ejercicio de Arrays
 
