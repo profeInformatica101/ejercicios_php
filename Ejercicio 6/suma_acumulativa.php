@@ -1,6 +1,6 @@
 <?php
 // suma_acumulativa.php
-
+//var_dump($_SERVER);
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $numero = $_POST['numero'];
 
