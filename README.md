@@ -1,6 +1,28 @@
 
 # Ejercicios PHP
 
+# Instrucciones Generales:
+
+**Entrega**: La entrega se realizará a través de un repositorio de Git. Crea un repositorio y sube tu código siguiendo la estructura que se detalla a continuación:
+
+```
+/nombre_del_repositorio
+├── /ejercicio1
+│   ├── saludo.html
+│   └── saludo.php
+├── /ejercicio2
+│   ├── viaje.html
+│   └── viaje.php
+├── /ejercicio8
+│   ├── lista_compras.html
+│   └── lista_compras.php
+└── README.md
+```
+
+**Valoración**: Se valorará la diferencia y originalidad en las soluciones propuestas. Asegúrate de documentar cada etapa del proceso y de comentar tu código PHP.
+
+Si tienes preguntas o dudas, no dudes en consultarme. ¡Buena suerte!
+
 **Instrucciones de Entrega**: La entrega se realizará a través de GitHub. Los estudiantes deberán realizar un fork de este repositorio, realizar sus ejercicios y finalmente realizar un pull request con sus soluciones. Asegúrate de que el repositorio esté disponible en la siguiente ruta: https://github.com/<su_usuario_github>/ejercicios_php. Además, deben apoyarse en la documentación oficial de PHP en: https://www.php.net/manual/es/ para cualquier consulta sobre las funciones y características del lenguaje.
 
 **Acceso a Datos**: En todos los ejercicios, los estudiantes podrán utilizar tanto el método `$_GET` como el método `$_POST` para recoger los datos de los formularios, según lo consideren más adecuado para cada caso.  
@@ -62,25 +84,3 @@
 
 ## 8. Lista de Compras
 **Enunciado**: Crea un formulario que permita al usuario ingresar varios productos en una lista de compras. Al enviar el formulario, el programa debe mostrar la lista completa de productos ingresados, utilizando un array para almacenarlos. Permite que el usuario agregue productos hasta que decida finalizar.
-
-# Instrucciones Generales:
-
-**Entrega**: La entrega se realizará a través de un repositorio de Git. Crea un repositorio y sube tu código siguiendo la estructura que se detalla a continuación:
-
-```
-/nombre_del_repositorio
-├── /ejercicio1
-│   ├── saludo.html
-│   └── saludo.php
-├── /ejercicio2
-│   ├── viaje.html
-│   └── viaje.php
-├── /ejercicio8
-│   ├── lista_compras.html
-│   └── lista_compras.php
-└── README.md
-```
-
-**Valoración**: Se valorará la diferencia y originalidad en las soluciones propuestas. Asegúrate de documentar cada etapa del proceso y de comentar tu código PHP.
-
-Si tienes preguntas o dudas, no dudes en consultarme. ¡Buena suerte!
