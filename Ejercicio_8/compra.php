@@ -9,7 +9,8 @@ if (!isset($_SESSION['productos'])) {
 
 // Si el formulario ha sido enviado y el producto no está vacío
 if (isset($_POST['producto']) && !empty($_POST['producto'])) {
-    $producto = trim($_POST['producto']);
+    // trim — Elimina espacio en blanco (u otro tipo de caracteres) del inicio y el final de la cadena
+    $producto = trim($_POST['producto']);  
     
     // Agregar el producto al array de la sesión
     $_SESSION['productos'][] = $producto;
